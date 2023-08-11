@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.homepage {
+    font-weight: 400;
+    font-size: 15px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+
+.main-bg-color {
+    background-color: #03174c;
+    height: 100vh;
+
+}
+
+
+.upper-main-background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    background-size: cover;
+
+
+}
+
+.upper-main-heading {
+    font-family: "Bree Serif";
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+
+.upper-paragraph {
+    font-family: "Bree Serif";
+    font-size: 13px;
+    color: white;
+    text-align: center;
+}
+
+.upper-card {
+    padding-top: 130px;
+}
+
+.lower-card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    margin-right: 100px;
+    margin-left: 100px;
+    color: #ffe7bf;
+    text-align: center;
+    padding: 53px;
+    border-radius: 10px;
+    background-size: cover;
+    font-family: "bree serif";
+
+}
+
+.main-head {
+    font-size: 28px;
+    padding: 10px;
+}
+
+.lower-paragraph {
+    font-family: "bree serif";
+    font-size: 12px;
+    color: white;
+    text-align: center;
+}
+
+.button {
+    height: 30px;
+    width: 110px;
+    background-color: #8e97fd;
+    font-size: 14px;
+    color: white;
+    font-weight: 500;
+    border-radius: 20px;
+    border-width: 0px;
+    margin-bottom: 100px;
+
+}
+
+.lower-card-margin {
+    margin: 90pc;
+}
+
+
+
+.second-backgorund-color {
+    background-color: #03174c;
+    width: 400px;
+
+}
+
+.second-main-heading {
+    font-family: "bree serif";
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.second-upper-image {
+    background-size: cover;
+    border-radius: 10px;
+    width: 400px;
+}
+
+.second-mid-heading {
+    color: white;
+    font-size: 20px;
+    font-family: "bree serif";
+    margin-left: 15px;
+}
+
+.second-mid-paragraph {
+    color: #98a1bd;
+    font-size: 14px;
+    font-family: "bree serif";
+    margin-left: 15px;
+}
+
+.second-lower-heading {
+    color: white;
+    font-family: "bree serif";
+    font-size: 16px;
+    margin-left: 15px;
+}
+
+.second-lower {
+    height: 110px;
+    width: 160px;
+    margin: 15px;
+}
+
+.bottom-heading {
+    font-size: 14px;
+    font-family: "bree serif";
+    color: white;
+    margin-left: 15px;
+
+}
+
+.bottom-para {
+    font-size: 12px;
+    font-family: "bree serif";
+    color: #98a1bd;
+    margin-left: 15px;
+}
