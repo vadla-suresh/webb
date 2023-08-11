@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.main-card {
+    background-color: white;
+    height: 180px;
+    text-align: center;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+}
+
+.main-tourism-heading {
+    font-family: monoton;
+    font-size: 34px;
+}
+
+.main-paragraph {
+    font-size: 16px;
+    font-family: roboto;
+}
+
+.tourism-button {
+    height: 35px;
+    width: 120px;
+    background-color: #42c5f5;
+    border-radius: 20px;
+    border-width: 0px;
+    font-size: 14px;
+    font-family: roboto;
+
+}
+
+.main-background-image {
+    background-image: url("https://img.freepik.com/free-photo/dubai-burj-khalifa-tallest-building-world_231208-7558.jpg?w=360&t=st=1690987494~exp=1690988094~hmac=5125e6f9ed8f7193aef8a8c82885ce15dab577e795b8a5aa9856bd92ab6cf5af");
+    height: 100vh;
+
+    background-size: cover;
+    padding: 10px;
+}
+
+.main-heading {
+    color: white;
+    font-family: roboto;
+    padding: 8px;
+
+}
+
+.favourite-place-card {
+    background-color: white;
+    padding: 8px;
+    border-radius: 8px;
+    margin: 18px;
+}
+
+.favourite-place-heading {
+    color: #22297d;
+    font-family: roboto;
+    font-size: 24px;
+}
+
+.favourite-place-paragraph {
+    color: grey;
+
+}
+
+.place-image {
+    height: 90px;
+    width: 100px;
+}
+
+.detailed-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+
+    margin: 24px;
+
+}
+
+
+.tajmahal-heading {
+    color: #020870;
+    font-family: roboto;
+    font-size: 26px;
+    font-weight: bold;
+
+}
+
+.tajmahal-paragraph {
+    color: black;
+    font-family: roboto;
+    font-size: 14px;
+
+}
+
+.deatiled-view-button {
+    height: 25px;
+    width: 70px;
+    background-color: #1b2030;
+    font-size: 13px;
+    color: white;
+    border-radius: 8px;
+
+}
+
+.main-padding {
+    padding: 10px;
+}
